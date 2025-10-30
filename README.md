@@ -1,1 +1,3 @@
-# github
+# Ashiket Patil
+from Tasgaon
+dist - Sangali
